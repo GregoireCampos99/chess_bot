@@ -61,7 +61,6 @@ chess_bot/
 │  ├─ eval.py          # evaluation with tunable params
 │  ├─ search.py        # alpha-beta, quiesce, iterative deepening
 │  ├─ zobrist.py       # (stub) TT hashing
-│  └─ ...
 ├─ cli/
 │  ├─ human_vs_bot.py  # ASCII UI (UCI-style input)
 │  └─ tune_selfplay.py # command-line wrapper for tuner
