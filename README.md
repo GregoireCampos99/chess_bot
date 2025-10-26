@@ -1,19 +1,9 @@
-Here’s a polished, copy-paste-ready `README.md` that makes your project look clean, modern, and fun. I tightened the language, fixed typos, organized the content, and added eye-candy (badges, checklists, code blocks, and clear sections). Swap in your own screenshots/GIFs when you have them.
-
----
-
 # Python Chess Engine — 0x88, Alpha-Beta, Quiescence, Self-Play Tuning
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Stage-Experimental-orange.svg)](#)
-[![No Dependencies](https://img.shields.io/badge/3rd%20Party%20Chess%20Libs-None-lightgrey.svg)](#)
 
 **Bishops or knights — which rules?** This perennial debate inspired me to build a chess engine from scratch in Python and **tune** the values of knights vs bishops. This engine is also the foundation for a follow-up **ML-based** bot: the tuned values here will become signals for the model later.
-
-<p align="center">
-  <img src="docs/board-screenshot.png" alt="ASCII board sample" width="600"/>
-</p>
 
 ---
 
